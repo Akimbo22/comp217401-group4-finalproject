@@ -3,8 +3,8 @@
 **For Unreal Engine - Version 5.7**
 
 ***RUN INSTRUCTIONS:***
-- Download [main project folder name]
-- (Files aside from this folder are already included in folder, they have been uploaded to help project development)
+- Download *COMP217GroupFinal* from the directory
+- (Files aside from this project folder are already included in said folder, they were uploaded separately during the development process)
 - Run Unreal Engine
 - Select [My Projects]
 - Select [Browse]
